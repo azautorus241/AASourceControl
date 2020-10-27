@@ -1,0 +1,1 @@
+get-content env:computername
